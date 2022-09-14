@@ -20,7 +20,7 @@ overflow:hidden;
     width:100%;
     min-height:100vh;
     position:relative;
-    overflow:hidden;
+    overflow:auto;
 }
 .frontpage3{
     background-image:url(guitar3.jpg);
