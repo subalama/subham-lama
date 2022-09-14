@@ -42,7 +42,6 @@ position:relative;
 }
 .font{
     position:absolute;
-    font-family:Brush Script MT;
     font-size:40px;
     display:grid;
     top:0;
@@ -53,7 +52,6 @@ position:relative;
 .intro{
     color:rgb(185, 185, 185);
     font-size:50px;
-    font-family:Brush Script MT;
     margin-top:550px;
     font-weight:700;
     bottom:0;
@@ -161,7 +159,6 @@ button:active{
     font-size:40px;
     margin-top:300px;
     margin-left:10px;
-    font-family:Brush Script MT;
     color:black;
 }
 .para{
@@ -169,7 +166,6 @@ button:active{
     font-size:40px;
     margin-top:60px;
     margin-left:17px;
-    font-family:Brush Script MT;
     color:black;
 }
 .logo1 a,.logo2 a,.logo3 a,.logo4 a{
@@ -246,7 +242,6 @@ button:active{
 .body{
     font-size:32px;
     width:650px;
-    font-family:Brush Script MT;
     margin-left:7px;
     margin-top:136px;
     position:absolute;
@@ -285,7 +280,6 @@ button:active{
     margin-top:79px;
     margin-right:40px;
     font-size:30px;
-    font-family:Brush Script MT;
     width:360px;
 }
 .web1{
@@ -315,7 +309,6 @@ button:active{
     margin-left:130px;
     margin-top:200px;
     display:inline-block;
-    font-family:Brush Script MT;
 }
 .music1{
     position:absolute;
@@ -344,7 +337,6 @@ button:active{
     margin-left:130px;
     margin-top:200px;
     display:inline-block;
-    font-family:Brush Script MT;
 }
 .market1{
     position:absolute;
@@ -373,7 +365,6 @@ button:active{
     margin-left:130px;
     margin-top:200px;
     display:inline-block;
-    font-family:Brush Script MT;
 }
 .page4{
     background-image:url(coding.jpg);
@@ -459,7 +450,6 @@ button:active{
         font-size:40px;
         margin-top:250px;
         margin-left:47px;
-        font-family:Brush Script MT;
         color:black;
 }
 .font{
@@ -483,7 +473,6 @@ button{
 .intro{
     color:rgb(185, 185, 185);
     font-size:40px;
-    font-family:Brush Script MT;
     margin-top:550px;
     font-weight:700;
 }
@@ -529,7 +518,6 @@ button{
     margin-top:370px;
     margin-right:10px;
     font-size:23px;
-    font-family:Brush Script MT;
     width:340px;
 }
 }
@@ -558,7 +546,6 @@ button{
         font-size:40px;
         margin-top:250px;
         margin-left:47px;
-        font-family:Brush Script MT;
         color:black;
 }
 .font{
@@ -582,7 +569,6 @@ button{
 .intro{
     color:rgb(185, 185, 185);
     font-size:40px;
-    font-family:Brush Script MT;
     margin-top:550px;
     font-weight:700;
 }
@@ -628,7 +614,6 @@ button{
     margin-top: 370px;
     margin-right:10px;
     font-size:23px;
-    font-family:Brush Script MT;
     width:340px;
 }
 }
@@ -657,7 +642,6 @@ button{
         font-size:40px;
         margin-top:250px;
         margin-left:47px;
-        font-family:Brush Script MT;
         color:black;
 }
 .font{
@@ -681,7 +665,6 @@ button{
 .intro{
     color:rgb(185, 185, 185);
     font-size:40px;
-    font-family:Brush Script MT;
     margin-top:550px;
     font-weight:700;
 }
@@ -729,7 +712,6 @@ button{
     margin-top:370px;
     margin-right:10px;
     font-size:23px;
-    font-family:Brush Script MT;
     width:340px;
 }
 }
@@ -764,7 +746,6 @@ button{
         font-size:30px;
         margin-top:250px;
         margin-left:27px;
-        font-family:Brush Script MT;
         color:black;
         font-weight:bold;
 }
@@ -773,7 +754,6 @@ button{
     font-size:30px;
     margin-top:60px;
     margin-left:27px;
-    font-family:Brush Script MT;
     color:black;
     font-weight:bold;
 }
@@ -800,7 +780,6 @@ button{
 .intro{
     color:rgb(185, 185, 185);
     font-size:40px;
-    font-family:Brush Script MT;
     margin-top:550px;
     font-weight:700;
 }
@@ -848,11 +827,10 @@ button{
     font-weight:bold;
 }
 .icons-guide{
-    margin-top:400px;
+    margin-top:600px;
     margin-bottom:0;
     margin-right:30px;
     font-size:13px;
-    font-family:Brush Script MT;
     width:240px;
     font-weight:bold;
 }
@@ -869,7 +847,6 @@ button{
     margin-left:30px;
     margin-top:140px;
     display:inline-block;
-    font-family:Brush Script MT;
     font-weight:bold;
 }
 .music1{
@@ -885,7 +862,6 @@ button{
     margin-left:30px;
     margin-top:140px;
     display:inline-block;
-    font-family:Brush Script MT;
     font-weight:bold;
 }
 .market1{
@@ -901,7 +877,6 @@ button{
     margin-left:30px;
     margin-top:140px;
     display:inline-block;
-    font-family:Brush Script MT;
     font-weight:bold;
 }
 .youtube,iframe{
