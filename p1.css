@@ -29,8 +29,7 @@ overflow:hidden;
     width:100%;
     min-height:100vh;
     position:relative;
-    overflow:hidden;
-    display:block;
+    overflow:auto;
 }    
 .guitar{
     position:absolute;
@@ -254,8 +253,6 @@ button:active{
     position:absolute;
     top:0px;
     font-weight:bold;
-    display:block;
-    overflow:auto;
 }
 .contact{
     position:absolute;
