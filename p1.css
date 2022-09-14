@@ -149,7 +149,7 @@ button:active{
     opacity:0.1;
 }
 .mountain{
-    background-image:url(guitar3.jpg);
+    background-image:linear-gradient(rgba(224, 224, 224, 0.74),rgba(224, 224, 224, 0.74)),url(digital-market.jpg);
     background-position:center;
     background-size:cover;
     width:100%;
