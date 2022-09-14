@@ -11,6 +11,7 @@ background-size:cover;
 width:100%;
 min-height:100vh;
 position:relative;
+overflow:hidden;
 }
 .frontpage2{
     background-image:url(guitar2.jpg);
@@ -19,6 +20,7 @@ position:relative;
     width:100%;
     min-height:100vh;
     position:relative;
+    overflow:hidden;
 }
 .frontpage3{
     background-image:url(guitar3.jpg);
@@ -27,6 +29,7 @@ position:relative;
     width:100%;
     min-height:100vh;
     position:relative;
+    overflow:hidden;
 }    
 .guitar{
     position:absolute;
