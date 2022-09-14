@@ -1,0 +1,82 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>SUBHAM LAMA</title>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="p1.css">
+</head>
+<body>
+
+<section class="frontpage1">
+    <a href="p1.html"><button>Home</button></a>
+    <a href="pabout.html"><button>About</button></a>
+    <a href="pcontact.html"><button>Contact</button></a>
+    <a href="photo.html"><button>Photo</button></a>
+    <a href="video.html"><button>Video</button></a>
+        <img class="guitar" src="guitar.jpg">
+        <div class="font">
+        <p>
+         Brace yourselves people!!<br>
+         You're lucky cause you're<br> 
+         in for a treat.   
+        </p>    
+        </div>
+    </section>
+<section class="service">
+    <p><i>Services I can offer:</i></p>
+    <a href="web-services.html" target="block"><div class="web">
+      <p>Web Development Related Services</p>
+    </div></a>                                                
+    <a href="music-services.html" target="block"><div class="music">
+        <p>Music & Recording Related Services</p>
+    </div></a>
+    <a href="digital-services.html" target="block"><div class="market">
+    <p>Digital Marketing Related Services</p></div></a>
+</section>
+<section class="mountain">
+   <center><div class="slideshow">
+        <img class="mySlides" src="guitar4.jpg">
+        <img class="mySlides" src="guitar2.jpg">
+        <img class="mySlides" src="guitar3.jpg">
+        <img class="mySlides" src="guitar.jpg">
+      </div></center>
+    <div class="glimpse">
+      <i>A glimpse of my hometown,<br>
+        Mt. Kanchenjunga</i>
+        </div>
+    <div class="icons4">
+       <span class="logo1"><a href="https://www.facebook.com/suba.lama.12345/" target="block">
+        <ion-icon name="logo-facebook"></ion-icon></a></span>
+        <span class="logo2"><a href="https://www.instagram.com/_subham.lama_/" target="block">
+            <ion-icon name="logo-instagram"></ion-icon></a></span>
+       <span class="logo3"><a href="https://www.youtube.com/user/aksuen" target="block">
+        <ion-icon name="logo-youtube"></ion-icon></a></span>
+        <span class="logo4"><a href="https://twitter.com/_subalama_" target="block">
+            <ion-icon name="logo-twitter"></ion-icon></a></span> 
+    </div>
+</section>
+<script>
+    var myIndex = 0;
+    carousel();
+    
+    function carousel() {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";  
+      }
+      myIndex++;
+      if (myIndex > x.length) {myIndex = 1}    
+      x[myIndex-1].style.display = "block";  
+      setTimeout(carousel, 2000); // Change image every 3 seconds
+    }
+    </script>    
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
