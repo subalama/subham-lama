@@ -149,7 +149,7 @@ button:active{
     opacity:0.1;
 }
 .mountain{
-    background-image:linear-gradient(rgba(4, 9, 30, 0.479),rgba(4,9,30,0.267)),url(digital-market.jpg);
+    background-image:url(himalayas.jpg);
     background-position:center;
     background-size:cover;
     width:100%;
